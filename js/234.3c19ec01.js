@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktickity_frontend"]=self["webpackChunktickity_frontend"]||[]).push([[234],{1234:function(n,t,e){e.r(t),e.d(t,{default:function(){return d}});var r=e(6252);function u(n,t,e,u,a,i){return(0,r.wg)(),(0,r.iD)("div")}var a={name:"dashboard-default"},i=e(3744);const c=(0,i.Z)(a,[["render",u]]);var d=c}}]);
+//# sourceMappingURL=234.3c19ec01.js.map

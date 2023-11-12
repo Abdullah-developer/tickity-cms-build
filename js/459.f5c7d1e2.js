@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktickity_frontend"]=self["webpackChunktickity_frontend"]||[]).push([[459],{5405:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var r=t(6252);function u(e,n,t,u,c,i){return(0,r.wg)(),(0,r.iD)("div")}var c={name:"delete-customer"},i=t(3744);const f=(0,i.Z)(c,[["render",u]]);var a=f}}]);
+//# sourceMappingURL=459.f5c7d1e2.js.map

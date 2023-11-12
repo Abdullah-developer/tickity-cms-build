@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktickity_frontend"]=self["webpackChunktickity_frontend"]||[]).push([[935],{7935:function(n,e,r){r.r(e),r.d(e,{default:function(){return f}});var t=r(6252);function i(n,e,r,i,u,c){return(0,t.wg)(),(0,t.iD)("div")}var u={name:"Orders-page"},c=r(3744);const a=(0,c.Z)(u,[["render",i]]);var f=a}}]);
+//# sourceMappingURL=935.f191b9d7.js.map

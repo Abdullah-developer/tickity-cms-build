@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktickity_frontend"]=self["webpackChunktickity_frontend"]||[]).push([[366],{5366:function(n,t,e){e.r(t),e.d(t,{default:function(){return f}});var r=e(6252);function i(n,t,e,i,u,c){return(0,r.wg)(),(0,r.iD)("div")}var u={name:"Events-page"},c=e(3744);const a=(0,c.Z)(u,[["render",i]]);var f=a}}]);
+//# sourceMappingURL=366.f56898fe.js.map
